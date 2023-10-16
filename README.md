@@ -1,4 +1,4 @@
-# VGM2TFI_windows
+# VGM2TFI Windows
  Port of Shiru's VGM2TFI - Sega Genesis instrument ripper.    
  The original project used Unix libraries.    
 
